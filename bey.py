@@ -1,3 +1,3 @@
 
-pirint("bey 300 day")
+print("bey 300 day")
 
